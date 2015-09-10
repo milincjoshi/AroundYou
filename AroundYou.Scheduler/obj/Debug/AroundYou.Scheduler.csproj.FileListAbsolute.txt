@@ -1,0 +1,4 @@
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\AroundYou.Scheduler\Bin\Debug\AroundYou.Scheduler.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\AroundYou.Scheduler\Bin\Debug\AroundYou.Scheduler.pdb
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\AroundYou.Scheduler\obj\Debug\AroundYou.Scheduler.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\AroundYou.Scheduler\obj\Debug\AroundYou.Scheduler.pdb

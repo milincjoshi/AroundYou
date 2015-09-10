@@ -1,0 +1,74 @@
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\Around You.dll
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\Around You.pdb
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\AppManifest.xaml
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\Around_You_Debug_AnyCPU.xap
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\obj\Debug\App.g.cs
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\obj\Debug\MainPage.g.cs
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\obj\Debug\Around You.g.resources
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\obj\Debug\Around_You.Resources.AppResources.resources
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\obj\Debug\Around You.csproj.GenerateResource.Cache
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\obj\Debug\Around You.dll
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\obj\Debug\Around You.pdb
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\obj\Debug\XapCacheFile.xml
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\System.Net.Http.dll
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\System.Net.Http.Extensions.dll
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\System.Net.Http.Primitives.dll
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\System.Net.Http.xml
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\System.Net.Http.Extensions.xml
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\System.Net.Http.Primitives.xml
+c:\users\milin\documents\visual studio 2013\Projects\Around You\Around You\obj\Debug\Around You.csprojResolveAssemblyReference.cache
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\obj\Debug\Search_results.g.cs
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Milin\documents\visual studio 2013\Projects\Around You\Around You\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
